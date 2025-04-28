@@ -22,5 +22,3 @@ flutter:
       android:
         package: com.cbcloud.channel_io_flutter
         pluginClass: ChannelIoFlutterPlugin
-      ios:
-        pluginClass: ChannelIoFlutterPlugin
